@@ -4,6 +4,7 @@
 
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<img src="https://github.com/ahmeddemirezen/ahmeddemirezen/blob/output/github-contribution-grid-snake.svg"/>
 
 <h3>Glad to see you here!</h3>
 
@@ -44,7 +45,6 @@
 </p>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmeddemirezen.ahmeddemirezen" alt="visitor badge"/>
-
 <!--
 **FabianTerhorst/fabianterhorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
