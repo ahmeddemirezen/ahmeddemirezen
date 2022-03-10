@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://media1.giphy.com/headers/shanebeam/myU7u7UKroOg.gif" />
-</p>
+</p> -->
 
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
