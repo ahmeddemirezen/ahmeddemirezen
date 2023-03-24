@@ -9,7 +9,7 @@
 <h3>Glad to see you here!</h3>
 
 <!-- GitHub stats -->  
-<b>⚡ My Dev Statistics</b>
+<b>⚡ My  Dev Statistics</b>
 
 <p>  
 <!-- GitHub Stats -->  
